@@ -8,10 +8,14 @@
 
 
 <p aling="center">
-    <img width="470" src="src/assets/aplicação.PNG">
+    <img width="500" src="src/assets/aplicação.PNG">
 </p>
 
-- Este projeto é um projeto para me ajudar na pratica de programação.
+<p aling="center">
+    <img width="500" src="src/assets/ezgif.com-video-to-gif.gif">
+</p>
+
+
 
 ## 💻 Linguagens Usadas para esta aplicação:
 
