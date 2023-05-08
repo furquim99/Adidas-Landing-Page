@@ -7,6 +7,10 @@
 - Esse projeto se iniciou com uma ideia de landing Page da nike que eu vi em um projeto no twitter, e quis reproduzir eu mesmo mas com outra marca, a fim de ver se eu consiguiria replicar essa aplicação. (https://nikepage.netlify.app/#)
 
 
+<p aling="center">
+    <img width="470" src="src/assets/aplicação.PNG">
+</p>
+
 - Este projeto é um projeto para me ajudar na pratica de programação.
 
 ## 💻 Linguagens Usadas para esta aplicação:
