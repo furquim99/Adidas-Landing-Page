@@ -18,7 +18,7 @@ section{
     align-items: center;
     background:  rgb(44, 43, 48);
     transition: 0.7s;
-    color: rgb(163, 16, 192);
+    color: rgb(185, 9, 141);
 }
 header{
     position: absolute;
@@ -155,7 +155,7 @@ header ul li.icon:hover{
 .products{
     position: absolute;
     left: 50%;
-    bottom: 20px;
+    bottom: 30px;
     transform: translateX(-50%);
     display: flex;
 }
